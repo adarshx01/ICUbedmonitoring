@@ -20,7 +20,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 - - **Enhanced Realtime alerting Mobile APP**: Seamless interaction between web and Android, sensor data transfer.
 
 ## Getting Started
-
+extract and run server and medbit zip files in for server
 Explore the project branches for additional configurations:
 - **Server** branch: Contains backend configurations.
 - **ML_config** branch: Houses machine learning configurations.
