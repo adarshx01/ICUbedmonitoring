@@ -2,7 +2,7 @@ Here's a README file for your Next.js project:
 
 ---
 
-# ICU Monitoring System
+# ICU Monitoring System(step down icu system for realtime analysis and monitoring)
 
 This project is a real-time ICU monitoring system, designed to enhance patient care by integrating multiple health data sources, advanced AI-powered monitoring, and remote access capabilities for healthcare teams.
 
