@@ -9,12 +9,13 @@ export default function MedicalChatbotEmbed() {
           <CardDescription className="text-center">Ask me anything about medical dosages and treatments</CardDescription>
         </CardHeader>
         <CardContent>
-          <iframe
-            src="http://localhost:8505"
+        <iframe
+            src="http://localhost:8501/"
             className="w-full h-[600px]"
             style={{ border: "none" }}
             title="Medical Assistant Embed"
           ></iframe>
+<iframe src="http://localhost:5000" width="640" height="480" frameborder="0"></iframe>
         </CardContent>
       </Card>
     </div>
