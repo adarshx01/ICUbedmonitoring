@@ -1,12 +1,13 @@
-Here's a README file for your Next.js project:
+Here's a README file for your Next.js and ML based stewmlit  project:
 
 ---
 
 # ICU Monitoring System(step down icu system for realtime analysis and monitoring)
 
-This project is a real-time ICU monitoring system, designed to enhance patient care by integrating multiple health data sources, advanced AI-powered monitoring, and remote access capabilities for healthcare teams.
+This project is a real-time ICU monitoring system, designed to enhance patient care by integrating multiple health data sources, advanced AI-powered monitoring, giving prediction based patients face emotions,body movement alerts, fall detection, Cough and sneeze detector, and remote access capabilities for healthcare teams.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
 
 ## Features
 
@@ -16,6 +17,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 - **Alert System**: Instant notifications for abnormal readings or critical changes.
 - **Trend Analysis**: Analyze historical data for tailored treatment plans.
 - **Enhanced Communication**: Seamless interaction between healthcare teams and patient families.
+- - **Enhanced Realtime alerting Mobile APP**: Seamless interaction between web and Android, sensor data transfer.
 
 ## Getting Started
 
