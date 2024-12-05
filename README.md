@@ -3,7 +3,7 @@ Here's a README file for your Next.js and ML based stewmlit  project:
 ---
 
 # ICU Monitoring System(step down icu system for realtime analysis and monitoring)
-
+# Hosted Link had some linting issue (http://criticallink.vercel.app/) (http://criticallink.co/)-(https://drive.google.com/file/d/1ILCLUyDT1CJ6zZyATbyxuIG7OVCBN9Z6/view?usp=sharing)
 This project is a real-time ICU monitoring system, designed to enhance patient care by integrating multiple health data sources, advanced AI-powered monitoring, giving prediction based patients face emotions,body movement alerts, fall detection, Cough and sneeze detector, and remote access capabilities for healthcare teams.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
